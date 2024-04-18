@@ -1,16 +1,10 @@
-# Hey there! Welcome to my GitHub profile. 👋
-## The name is Gabriel.
-I'm a Brazilian computer technician, constantly learning about the computing world. I'm currently 20 years old and my pronouns are he/him.
-
-### ➤ Programming languages and frameworks
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-
-### ➤ Software
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-
-
-Get in touch with me! 💬
-<div>
-<a href = "mailto:gfcleao@outlook.com.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gfcleao" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" rel="stylesheet">
+# Gabriel Furtado ‍
+## Brazilian Coder at UNIVASF  🇧🇷
+I'm Gabriel, a passionate 20-year-old computer science student fueled by coffee ☕ and the thrill of creating things with code <i class="fas fa-code"></i>.  Hailing from Brazil 🇧🇷, I'm currently sharpening my skills at the Federal University of São Francisco Valley (UNIVASF).
+## My Digital Playground ️
+* **Windows 11 & Arch Linux:**  I enjoy exploring the diverse landscapes of operating systems. My custom-built desktop <i class="fas fa-desktop"></i> is my powerhouse for demanding tasks, while my trusty laptop <i class="fas fa-laptop"></i> keeps me productive on the go!
+* **Coding Languages:**  I'm building a versatile skillset, currently working with C, Java, HTML, PHP, and CSS. Whether it's crafting robust applications or designing sleek user interfaces, I'm always eager to learn more.
+* **Creative Toolkit:**  When I'm not coding, I unleash my artistic side with tools like Visual Studio Code (of course, for coding too! ) <i class="fas fa-code"></i>, GIMP and Inkscape for image manipulation, and Krita for digital painting <i class="fas fa-palette"></i>.
+## Always Evolving 
+I'm a lifelong learner, constantly seeking new challenges to push my boundaries and expand my knowledge base.
