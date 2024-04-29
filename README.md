@@ -1,7 +1,7 @@
 <div align="center">
  
 ![Mint](https://github.com/gfcleao/gfcleao/assets/126573238/84a50a78-8213-4fcb-91dd-889820b83740)
-# Gabriel Furtado (20y/o 🇧🇷)
+# Gabriel Furtado (21y/o 🇧🇷)
 Aspiring Computer Science student at the Federal University of the São Francisco Valley (UNIVASF)
 </div>
 
