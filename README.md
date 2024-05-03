@@ -1,11 +1,14 @@
 <div align="center">
- 
+
 ![Mint](https://github.com/gfcleao/gfcleao/assets/126573238/84a50a78-8213-4fcb-91dd-889820b83740)
+
 # Gabriel Furtado (21y/o 🇧🇷)
+
 Aspiring Computer Science student at the Federal University of the São Francisco Valley (UNIVASF)
 </div>
 
 ## My Setup 🧑🏻‍💻
+
 * **Custom Built Desktop:** Powered by Windows 11 for a smooth workflow. 🖥️🪟
 * **Daily Driver Laptop:** Running Arch Linux - perfect for tinkering and exploration! 💻🐧
 
@@ -21,8 +24,8 @@ Aspiring Computer Science student at the Federal University of the São Francisc
 
 ## My Toolkit ⚙️
 
-* **Visual Studio Code:** My go-to editor for all things code! 
-* **GIMP & Inkscape:** Unleashing creativity for image manipulation and vector graphics! 
+* **Visual Studio Code:** My go-to editor for all things code!
+* **GIMP & Inkscape:** Unleashing creativity for image manipulation and vector graphics!
   * **GIMP:** Powerful and free image editor.
   * **Inkscape:** Creating stunning vector graphics.
 * **Krita:** Bringing digital art to life! 🎨
@@ -30,4 +33,7 @@ Aspiring Computer Science student at the Federal University of the São Francisc
 <div align="center">
 
 ### Catch you on the flip side! 👋🏻
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/gfcleao/)](https://www.linkedin.com/in/gfcleao/)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&link=https://www.facebook.com/biel.furts/)](https://www.facebook.com/biel.furts/)
 </div>
