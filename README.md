@@ -5,32 +5,28 @@
 # Gabriel Furtado (21y/o 🇧🇷)
 
 Aspiring Computer Science student at the Federal University of the São Francisco Valley (UNIVASF)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gfcleao&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfcleao&layout=compact&theme=dracula)
+
 </div>
 
-## My Setup 🧑🏻‍💻
+## Current Setup 🧑🏻‍💻
 
 * **Custom Built Desktop:** Powered by Windows 11 for a smooth workflow. 🖥️🪟
 * **Daily Driver Laptop:** Running Arch Linux - perfect for tinkering and exploration! 💻🐧
 
-## My Skills 🧠
+## Technical Skills 🧠
 
-* **C:** Where it all began for me! 🔰
-* **Java:** Building robust applications! ☕
-* **Web Development:** Bringing ideas to life through HTML, CSS, and PHP! 🌐
-  * **HTML:** The foundation of web pages.
-  * **CSS:** Adding style and interactivity.
-  * **PHP:** Making web pages dynamic.
-* **Bootstrap:** Building responsive websites with ease.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48"/>
 
-## My Toolkit ⚙️
+## Development Tools ⚙️
 
-* **Visual Studio Code:** My go-to editor for all things code!
-* **GIMP & Inkscape:** Unleashing creativity for image manipulation and vector graphics!
-  * **GIMP:** Powerful and free image editor.
-  * **Inkscape:** Creating stunning vector graphics.
-* **Krita:** Bringing digital art to life! 🎨
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" alt="GIMP" width="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="48"/>
 
 <div align="center">
+
+![Spotify - Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=snyverbr&count=3&unique=false)
 
 ### Catch you on the flip side! 👋🏻
 
