@@ -13,7 +13,7 @@ Aspiring Computer Science student at the Federal University of the São Francisc
 
 ## Current Setup 🧑🏻‍💻
 
-* **Custom Built Desktop:** Powered by Windows 11 for a smooth workflow. 🖥️🪟
+* **Custom Built Desktop:** Powered by Windows 10 for a smooth workflow. 🖥️🪟
 * **Daily Driver Laptop:** Running Arch Linux - perfect for tinkering and exploration! 💻🐧
 
 ## Technical Skills 🧠
