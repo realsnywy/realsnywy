@@ -6,8 +6,8 @@
 
 Aspiring Computer Science student at the Federal University of the São Francisco Valley (UNIVASF)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gfcleao&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfcleao&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realsnywy&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realsnywy&layout=compact&theme=dracula)
 
 </div>
 
