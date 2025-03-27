@@ -25,6 +25,7 @@ Aspiring Computer Science student at the Federal University of the São Francisc
 <div align="center">
 
 ![Spotify - Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=snyverbr&count=1&unique=false)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=272796106595893249)
 
 ### Rawr! Catch y'all on the flip side! 👋🏻
 
