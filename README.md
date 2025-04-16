@@ -1,13 +1,13 @@
 <div align="center">
 
-![Mintheon](https://github.com/gfcleao/gfcleao/assets/126573238/84a50a78-8213-4fcb-91dd-889820b83740)
+![](https://github.com/gfcleao/gfcleao/assets/126573238/84a50a78-8213-4fcb-91dd-889820b83740)
 
 # Gabriel "Snywy" Furtado (21y/o 🇧🇷)
 
 Aspiring Computer Science student at the Federal University of the São Francisco Valley (UNIVASF)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realsnywy&show_icons=true&theme=discord_old_blurple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realsnywy&layout=compact&theme=discord_old_blurple)
+![](https://github-readme-stats.vercel.app/api?username=realsnywy&show_icons=true&theme=discord_old_blurple)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=realsnywy&layout=compact&theme=discord_old_blurple)
 
 </div>
 
