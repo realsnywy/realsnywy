@@ -24,12 +24,12 @@ Aspiring Computer Science student at the Federal University of the São Francisc
 
 <div align="center">
 
-![Spotify - Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=snyverbr&count=1&unique=false)
-![My Discord](https://discord-readme-badge.vercel.app/api?id=272796106595893249)
+![](https://spotify-recently-played-readme.vercel.app/api?user=snyverbr&count=1&unique=false)
+![](https://discord-readme-badge.vercel.app/api?id=272796106595893249)
 
 ### Rawr! Catch y'all on the flip side! 👋🏻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gfcleao/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/biel.furts/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gfcleao/)
+[![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/biel.furts/)
 
 </div>
