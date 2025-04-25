@@ -4,7 +4,7 @@
 
 # Gabriel "Snywy" Furtado (21y/o 🇧🇷)
 
-Aspiring Computer Science student at the Federal University of the São Francisco Valley (UNIVASF)
+Aspiring Computer Science student at the Federal University of San Francisco Valley (UNIVASF)
 
 ![](https://github-readme-stats.vercel.app/api?username=realsnywy&show_icons=true&theme=discord_old_blurple)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=realsnywy&layout=compact&theme=discord_old_blurple)
