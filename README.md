@@ -2,7 +2,7 @@
 
 ![](https://github.com/gfcleao/gfcleao/assets/126573238/84a50a78-8213-4fcb-91dd-889820b83740)
 
-# Gabriel "Snywy" Furtado (21y/o 🇧🇷)
+# Gabriel "Snywy" Furtado (22y/o 🇧🇷)
 
 Aspiring Computer Science student at the Federal University of San Francisco Valley (UNIVASF)
 
