@@ -30,6 +30,6 @@ Aspiring Computer Science student at the Federal University of San Francisco Val
 ### Rawr! Catch y'all on the flip side! 👋🏻
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gfcleao/)
-[![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/biel.furts/)
+[![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/gfcleao/)
 
 </div>
