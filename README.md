@@ -6,6 +6,8 @@
 
 Aspiring Computer Science student at the Federal University of San Francisco Valley (UNIVASF)
 
+> 📧 **Note:** Due to college commitments, I'm currently unable to respond to emails.
+
 ![](https://github-readme-stats.vercel.app/api?username=realsnywy&show_icons=true&theme=discord_old_blurple)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=realsnywy&layout=compact&theme=discord_old_blurple)
 
