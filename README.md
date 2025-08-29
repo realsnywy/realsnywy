@@ -16,13 +16,13 @@ Aspiring Computer Science student at the Federal University of San Francisco Val
 ## 🧠 My Coding Arsenal
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=bootstrap,c,css,html,java,lua,mysql,python" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,c,css,html,java,lua,mysql,php,python" />
 </a>
 
 ## ⚙ Daily Drivers
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=neovim,vscode,unity" />
+  <img src="https://skillicons.dev/icons?i=git,neovim,vscode,unity" />
 </a>
 
 ## 💾 Digital Habitat
