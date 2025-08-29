@@ -32,7 +32,7 @@ Aspiring Computer Science student at the Federal University of San Francisco Val
 </a>
 
 <div align="center">
-
+<br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 8px;">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=snyverbr&count=1&unique=false" />
 <img src="https://discord-readme-badge.vercel.app/api?id=272796106595893249" />
