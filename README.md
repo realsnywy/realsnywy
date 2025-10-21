@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://github.com/gfcleao/gfcleao/assets/126573238/84a50a78-8213-4fcb-91dd-889820b83740)
+![](https://github.com/user-attachments/assets/2239b31e-102a-484c-ab4e-712a6b44fe7b)
 
 # Gabriel "Snywy" Furtado (22y/o 🇧🇷)
 
