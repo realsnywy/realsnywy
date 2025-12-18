@@ -22,13 +22,13 @@ Aspiring Computer Science student at the Federal University of San Francisco Val
 ## ⚙ Daily Drivers
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,neovim,vscode,unity" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,unity" />
 </a>
 
 ## 💾 Digital Habitat
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=arch,raspberrypi,windows" />
+  <img src="https://skillicons.dev/icons?i=windows" />
 </a>
 
 <div align="center">
