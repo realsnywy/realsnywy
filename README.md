@@ -8,8 +8,8 @@ Aspiring Computer Science student at the Federal University of San Francisco Val
 
 > 📧 **Note:** Due to college commitments, I'm currently unable to respond to emails.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=realsnywy&show_icons=true&theme=discord_old_blurple" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsnywy&layout=compact&theme=discord_old_blurple" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=realsnywy&show_icons=true&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsnywy&layout=compact&theme=dark" />
 
 </div>
 
