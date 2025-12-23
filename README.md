@@ -1,43 +1,54 @@
 <div align="center">
 
-![](https://github.com/user-attachments/assets/2239b31e-102a-484c-ab4e-712a6b44fe7b)
+<img src="https://github.com/user-attachments/assets/2239b31e-102a-484c-ab4e-712a6b44fe7b" width="150" alt="Mintheon" />
 
-# Gabriel "Snywy" Furtado (22y/o 🇧🇷)
+# Gabriel "Snywy" Furtado
+**22y/o • Computer Science @ UNIVASF 🇧🇷**
 
-Aspiring Computer Science student at the Federal University of San Francisco Valley (UNIVASF)
+Based in the San Francisco Valley. I'm currently focused on my university studies. 
+Because of my current course load, I'm not active on email right now.
 
-> 📧 **Note:** Due to college commitments, I'm currently unable to respond to emails.
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=realsnywy&show_icons=true&theme=dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsnywy&layout=compact&theme=dark" />
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=realsnywy&show_icons=true&title_color=85FFC7&icon_color=297373&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsnywy&layout=compact&title_color=85FFC7&icon_color=297373&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+</p>
 
 </div>
 
-## 🧠 My Coding Arsenal
+---
 
+### 🚀 What I'm working on
+* **Academic:** Deepening my knowledge in Java and MySQL for university projects.
+* **Game Dev:** Experimenting with Godot.
+* **Creative/Hardware:** Learning 3D modeling in Blender and messing around with Raspberry Pi.
+
+### 🛠 My Arsenal
+**Languages & Frameworks**
+<p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=bootstrap,c,css,html,java,lua,mysql,php,python" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,php,mysql,html,css,bootstrap" />
 </a>
+</p>
 
-## ⚙ Daily Drivers
-
+**Tools & Creative Software**
+<p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,vscode,unity" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,godot,blender,raspberrypi,windows" />
 </a>
+</p>
 
-## 💾 Digital Habitat
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=windows" />
-</a>
+---
 
 <div align="center">
-<br>
-<div style="display: flex; justify-content: center; align-items: center; gap: 8px;">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=snyverbr&count=1&unique=false" />
-<img src="https://discord-readme-badge.vercel.app/api?id=272796106595893249" />
+
+### 🎵 What's on loop?
+<div style="display: flex; justify-content: center; align-items: center; gap: 12px;">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=snyverbr&count=1&unique=false" />
+  <img src="https://discord-readme-badge.vercel.app/api?id=272796106595893249" />
 </div>
 
-### Rawr! Catch y'all on the flip side! 👋🏻
+<br />
+
+**Catch y'all on the flip side! 👋**
 
 </div>
