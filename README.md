@@ -9,6 +9,15 @@ Based in the San Francisco Valley. I'm currently focused on my university studie
 Because of my current course load, I'm not active on email right now.
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/gfcleao/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/gfcleao/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=realsnywy&show_icons=true&title_color=85FFC7&icon_color=297373&text_color=ffffff&bg_color=0d1117&hide_border=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsnywy&layout=compact&title_color=85FFC7&icon_color=297373&text_color=ffffff&bg_color=0d1117&hide_border=true" />
 </p>
