@@ -3,9 +3,9 @@
 <img src="https://github.com/user-attachments/assets/2239b31e-102a-484c-ab4e-712a6b44fe7b" width="150" alt="Mintheon" />
 
 # Gabriel "Snywy" Furtado
-**22y/o • Computer Science @ UNIVASF 🇧🇷**
+**23y/o • Computer Science @ CIn-UFPE 🇧🇷**
 
-Based in the San Francisco Valley. I'm currently focused on my university studies. 
+Currently on an academic exchange. I'm currently focused on my university studies. 
 Because of my current course load, I'm not active on email right now.
 
 <p align="center">
