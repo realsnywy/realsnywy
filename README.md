@@ -38,14 +38,14 @@ Because of my current course load, I'm not active on email right now.
 **Languages & Frameworks**
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,java,python,php,mysql,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,php,mysql,html,css,bootstrap,markdown" />
 </a>
 </p>
 
 **Tools & Creative Software**
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,git,godot,blender,raspberrypi,windows" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,arch,windows,notion,discord,unity,godot,blender,raspberrypi" />
 </a>
 </p>
 
