@@ -3,9 +3,10 @@
 <img src="https://github.com/user-attachments/assets/2239b31e-102a-484c-ab4e-712a6b44fe7b" width="150" alt="Mintheon" />
 
 # Gabriel "Snywy" Furtado
+
 **23y/o • Computer Science @ CIn-UFPE 🇧🇷**
 
-Currently on an academic exchange. I'm currently focused on my university studies. 
+Currently on an academic exchange. I'm currently focused on my university studies.
 Because of my current course load, I'm not active on email right now.
 
 <p align="center">
@@ -18,8 +19,8 @@ Because of my current course load, I'm not active on email right now.
 </p>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=realsnywy&show_icons=true&title_color=85FFC7&icon_color=297373&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsnywy&layout=compact&title_color=85FFC7&icon_color=297373&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+  <img height="150em" src="./profile/stats.svg" />
+  <img height="150em" src="./profile/top-langs.svg" />
 </p>
 
 </div>
@@ -27,11 +28,13 @@ Because of my current course load, I'm not active on email right now.
 ---
 
 ### 🚀 What I'm working on
+
 * **Academic:** Deepening my knowledge in Java and MySQL for university projects.
 * **Game Dev:** Experimenting with Godot.
 * **Creative/Hardware:** Learning 3D modeling in Blender and messing around with Raspberry Pi.
 
 ### 🛠 My Arsenal
+
 **Languages & Frameworks**
 <p align="left">
 <a href="https://skillicons.dev">
@@ -51,6 +54,7 @@ Because of my current course load, I'm not active on email right now.
 <div align="center">
 
 ### 🎵 What's on loop?
+
 <div style="display: flex; justify-content: center; align-items: center; gap: 12px;">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=snyverbr&count=1&unique=false" />
   <img src="https://discord-readme-badge.vercel.app/api?id=272796106595893249" />
