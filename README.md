@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/2239b31e-102a-484c-ab4e-712a6b44fe7b" width="150" alt="Mintheon" />
+<img src="https://github.com/user-attachments/assets/406d47b6-7209-4e34-979a-30ca0f4ab4d3" width="256" alt="Snywy" />
 
 # Gabriel "Snywy" Furtado
 
