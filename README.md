@@ -6,7 +6,7 @@
 
 **23y/o • Computer Science @ Univasf 🇧🇷**
 
-Based in the San Francisco Valley. I'm currently focused on my university studies.
+Based in the San Francisco Valley. I'm currently focused on my university studies.<br>
 Because of my current course load, I'm not active on email right now.
 
 <p align="center">
