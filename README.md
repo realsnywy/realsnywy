@@ -4,9 +4,9 @@
 
 # Gabriel "Snywy" Furtado
 
-**23y/o • Computer Science @ CIn-UFPE 🇧🇷**
+**23y/o • Computer Science @ Univasf 🇧🇷**
 
-Currently on an academic exchange. I'm currently focused on my university studies.
+Based in the San Francisco Valley. I'm currently focused on my university studies.
 Because of my current course load, I'm not active on email right now.
 
 <p align="center">
