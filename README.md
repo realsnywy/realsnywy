@@ -4,7 +4,7 @@
 
 # Gabriel "Snywy" Furtado
 
-**23y/o • Computer Science @ UNIVASF 🇧🇷**
+**23y/o • Computer Science @ UNIVASF**
 
 Based in the São Francisco Valley. I'm currently focused on my university studies.<br>
 Because of my current course load, I'm not active on email right now.
