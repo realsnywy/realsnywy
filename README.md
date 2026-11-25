@@ -7,9 +7,9 @@ based in the são francisco valley · [realsnywy.github.io](https://realsnywy.gi
 
 **what i'm working on**
 
-* **academic:** deepening java and mysql for university projects
-* **game dev:** experimenting with godot
-* **creative & hardware:** learning 3d modeling in blender and messing around with raspberry pi
+- **academic:** deepening java and mysql for university projects
+- **game dev:** experimenting with godot
+- **creative & hardware:** learning 3d modeling in blender and messing around with raspberry pi
 
 ---
 
@@ -32,7 +32,7 @@ based in the são francisco valley · [realsnywy.github.io](https://realsnywy.gi
 
 ![git](https://img.shields.io/badge/git-85ffc7?style=flat-square&logo=git&logoColor=15181D)
 ![github](https://img.shields.io/badge/github-85ffc7?style=flat-square&logo=github&logoColor=15181D)
-![vs code](https://img.shields.io/badge/vs%20code-85ffc7?style=flat-square&logo=vscodium&logoColor=15181D)
+![vscodium](https://img.shields.io/badge/vscodium-85ffc7?style=flat-square&logo=vscodium&logoColor=15181D)
 ![gnu nano](https://img.shields.io/badge/nano-85ffc7?style=flat-square&logo=gnu&logoColor=15181D)
 ![cachyos](https://img.shields.io/badge/cachyos-85ffc7?style=flat-square&logo=archlinux&logoColor=15181D)
 ![obsidian](https://img.shields.io/badge/obsidian-85ffc7?style=flat-square&logo=obsidian&logoColor=15181D)
